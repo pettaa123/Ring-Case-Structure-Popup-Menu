@@ -1,6 +1,6 @@
 # Libraries
 *.lvlibp
-*.llb
+
 !support.llb
 !NI Modbus.llb
 

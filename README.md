@@ -1,6 +1,9 @@
-#Install
-Copy PopupMenu folder to Default Data Directory (Tools->Options->Paths: Default Data Directory)
-#Requirements
-LabVIEW 24
+# Installation
+
+1. Copy the `PopupMenu` folder to the Default Data Directory.
+2. You can find the Default Data Directory in LabVIEW by navigating to 
+
+# Requirements
+- LabVIEW 24
 
 ![Usage](ezgif-1ad123836be7e.gif)

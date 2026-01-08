@@ -6,4 +6,4 @@
 # Requirements
 - LabVIEW 24
 
-![Usage](ezgif-1ad123836be7e.gif)
+![Usage](usage.gif)
